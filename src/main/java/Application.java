@@ -1,4 +1,4 @@
-import base.entityservice.FirstEntityEntityService;
+import entityservice.FirstEntityEntityService;
 import entity.FirstEntity;
 
 import java.util.List;

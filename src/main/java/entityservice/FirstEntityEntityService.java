@@ -1,4 +1,4 @@
-package base.entityservice;
+package entityservice;
 
 import dao.FirstEntityDao;
 import entity.FirstEntity;
